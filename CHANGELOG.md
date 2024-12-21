@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-21)
+
+<section class="features">
+
+### Features
+
+-   [`150755b`](https://github.com/stdlib-js/stdlib/commit/150755bdfc256d687e34cddd85a8f075fe4d4ab4) - add C implementation for `stats/base/dists/invgamma/kurtosis`   [(#4120)](https://github.com/stdlib-js/stdlib/pull/4120)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3672](https://github.com/stdlib-js/stdlib/issues/3672)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`150755b`](https://github.com/stdlib-js/stdlib/commit/150755bdfc256d687e34cddd85a8f075fe4d4ab4) - **feat:** add C implementation for `stats/base/dists/invgamma/kurtosis`   [(#4120)](https://github.com/stdlib-js/stdlib/pull/4120) _(by Vivek maurya)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
