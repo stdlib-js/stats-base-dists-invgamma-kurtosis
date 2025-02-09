@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`f505ed5`](https://github.com/stdlib-js/stdlib/commit/f505ed56b0c0cc20458f9e51760d45d5abd60b36) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`1db3cc5`](https://github.com/stdlib-js/stdlib/commit/1db3cc5291f4d08855501db089953299de98b8a4) - **bench:** refactor random number generation in `stats/base/dists/invgamma` [(#4974)](https://github.com/stdlib-js/stdlib/pull/4974) _(by Karan Anand)_
 -   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
 -   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`150755b`](https://github.com/stdlib-js/stdlib/commit/150755bdfc256d687e34cddd85a8f075fe4d4ab4) - **feat:** add C implementation for `stats/base/dists/invgamma/kurtosis`   [(#4120)](https://github.com/stdlib-js/stdlib/pull/4120) _(by Vivek Maurya)_
@@ -48,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
 
