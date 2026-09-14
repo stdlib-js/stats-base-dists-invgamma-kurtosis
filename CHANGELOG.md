@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-31)
+## Unreleased (2026-09-14)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9a4eae1`](https://github.com/stdlib-js/stdlib/commit/9a4eae1ab3ed33061575741155f8d2b7c01a98e0) - **test:** migrate `stats/base/dists/invgamma/kurtosis` to ULP-based assertions [(#15211)](https://github.com/stdlib-js/stdlib/pull/15211) _(by Philipp Burckhardt)_
 -   [`a103b47`](https://github.com/stdlib-js/stdlib/commit/a103b474ac08bc97bfdeac4674230abc02d17ae5) - **docs:** fix descriptions [(#13696)](https://github.com/stdlib-js/stdlib/pull/13696) _(by Philipp Burckhardt)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`8a6c701`](https://github.com/stdlib-js/stdlib/commit/8a6c701c26772991b4f50e0d2b5194d676c80d1b) - **bench:** refactor to use string interpolation in `stats/base/dists/invgamma` [(#10442)](https://github.com/stdlib-js/stdlib/pull/10442) _(by Lokesh Ranjan)_
